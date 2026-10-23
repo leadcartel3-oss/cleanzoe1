@@ -1,0 +1,6 @@
+{
+  "name": "Cleanzoe Marrakech - Entreprise de Nettoyage Professionnel & Résidentiel",
+  "description": "Entreprise de nettoyage professionnel et résidentiel à Marrakech. Villas, appartements, bureaux, Airbnb, fin de chantier, cristallisation marbre et piscines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
